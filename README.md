@@ -170,8 +170,6 @@ htop
 ## 🧾 Author
 
 **Yasesvi Reddy Pebbeti**  
-🎓 Master’s Student in Computer Science — _SUNY Polytechnic Institute_  
-📧 [pebbety@sunypoly.edu](mailto:pebbety@sunypoly.edu)  
 💻 [GitHub: Yasesvi-Reddy-Pebbeti](https://github.com/Yasesvi-Reddy-Pebbeti)  
 🌐 [Portfolio: yasesvireddy.dev](https://yasesvireddy.dev)
 
